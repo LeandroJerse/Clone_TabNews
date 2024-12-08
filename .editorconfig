@@ -1,0 +1,5 @@
+root = true
+
+[*] #pode-se especificar qual tipo de arquivo será usada a config abaixo, por exemplo .js
+indent_style = space
+indent_size = 2
